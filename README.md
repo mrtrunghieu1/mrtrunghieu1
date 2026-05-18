@@ -15,9 +15,4 @@
 - Sequential and time-series representation learning
 
 ## 🛠️ Tech Stack
-Python • PyTorch • Transformers • OpenCV • Linux
-
-## 📫 Contact
-- Email: your_email_here
-- Google Scholar: your_link_here
-- LinkedIn: your_link_here
+Python • PyTorch • Transformers • Linux
