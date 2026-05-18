@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Hieu Vu
 
-<!--
-**mrtrunghieu1/mrtrunghieu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Student at Robert Gordon University
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
+- Video Understanding
+- Temporal Representation Learning
+- Multimodal AI
+- Vision-Language Models (VLMs)
+- World Models & Embodied AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Exploring
+- Transition-aware video representations
+- Temporal reasoning in multimodal models
+- Sequential and time-series representation learning
+
+## 🛠️ Tech Stack
+Python • PyTorch • Transformers • OpenCV • Linux
+
+## 📫 Contact
+- Email: your_email_here
+- Google Scholar: your_link_here
+- LinkedIn: your_link_here
