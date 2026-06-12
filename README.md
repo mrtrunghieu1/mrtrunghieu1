@@ -7,7 +7,6 @@
 - Temporal Representation Learning
 - Multimodal AI
 - Vision-Language Models (VLMs)
-- World Models & Embodied AI
 
 ## 🚀 Currently Exploring
 - Transition-aware video representations
