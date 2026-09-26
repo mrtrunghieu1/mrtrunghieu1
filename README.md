@@ -3,10 +3,9 @@
 🎓 PhD Student at Robert Gordon University
 
 ## 🔬 Research Interests
-- Video Understanding
 - Temporal Representation Learning
-- Multimodal AI
-- Vision-Language Models (VLMs)
+- Remaining Useful Life Prediction
+- Time Series Forecasting
 
 ## 🚀 Currently Exploring
 - Transition-aware video representations
